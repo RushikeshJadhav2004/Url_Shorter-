@@ -2,15 +2,12 @@
 # 🎬 Url Shortner
 
 ** This is Url Shortner it shorts the large url.
-
-![Banner](<img width="1365" height="678" alt="Screenshot 2025-08-07 235601" src="https://github.com/user-attachments/assets/af0d2758-2e6d-4850-8e51-71995a956bd6" />
-)
 <br>
+![Banner 1](https://github.com/user-attachments/assets/af0d2758-2e6d-4850-8e51-71995a956bd6)
 <br>
-![Banner](<img width="1365" height="679" alt="Screenshot 2025-08-07 235547" src="https://github.com/user-attachments/assets/69290670-61de-4812-9b7e-eb5296b877a8" />
-)
 
-
+![Banner 2](https://github.com/user-attachments/assets/69290670-61de-4812-9b7e-eb5296b877a8)
+<br>
 
 ## 🧩 Tech Stack
 
